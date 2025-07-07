@@ -16,6 +16,8 @@
   - [Project Structure](#project-structure)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Author](#Author)
+
 
 ## About the Project
 
